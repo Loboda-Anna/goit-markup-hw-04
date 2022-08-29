@@ -24,6 +24,7 @@ ul {
 a {
   text-decoration: none;
 }
+
 h1,
 h2,
 h3,
@@ -301,7 +302,6 @@ img {
 }
 .clients-item {
   display: flex;
-  cursor: pointer;
   width: 170px;
   height: 92px;
   padding: 16px 32px;
